@@ -1,0 +1,285 @@
+[
+  {
+    "kanji": "昼",
+    "strokes": 9,
+    "meaning": "noon, day",
+    "kunyomi": [
+      {
+        "kanji": "昼休み",
+        "furigana": "ひるやすみ",
+        "meaning": "lunchbreak"
+      },
+      {
+        "kanji": "飯",
+        "furigana": "ひるごはん",
+        "meaning": "lunch"
+      },
+      {
+        "kanji": "昼間",
+        "furigana": "ひるま",
+        "meaning": "daytime"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "昼食",
+        "furigana": "ちゅうしょく",
+        "meaning": "lunch"
+      }
+    ]
+  },
+  {
+    "kanji": "夕",
+    "strokes": 3,
+    "meaning": "evening",
+    "kunyomi": [
+      {
+        "kanji": "夕方",
+        "furigana": "ゆうがた",
+        "meaning": "evening"
+      },
+      {
+        "kanji": "夕食",
+        "furigana": "ゆうしょく",
+        "meaning": "dinner"
+      },
+      {
+        "kanji": "夕飯",
+        "furigana": "ゆうはん",
+        "meaning": "dinner"
+      }
+    ],
+    "onyomi": []
+  },
+  {
+    "kanji": "夜",
+    "strokes": 8,
+    "meaning": "night, evening",
+    "kunyomi": [
+      {
+        "kanji": "夜",
+        "furigana": "よる",
+        "meaning": "night, evening"
+      },
+      {
+        "kanji": "夜中",
+        "furigana": "よなか",
+        "meaning": "(in) the middle of the night"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "今夜",
+        "furigana": "こんや",
+        "meaning": "tonight"
+      }
+    ]
+  },
+  {
+    "kanji": "去",
+    "strokes": 5,
+    "meaning": "leave, abandon",
+    "kunyomi": [
+      {
+        "kanji": "去る*",
+        "furigana": "さる",
+        "meaning": "leave"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "去年",
+        "furigana": "きょねん",
+        "meaning": "last year"
+      }
+    ]
+  },
+  {
+    "kanji": "代",
+    "strokes": 5,
+    "meaning": "generation, fee, replace",
+    "kunyomi": [
+      {
+        "kanji": "代わる",
+        "furigana": "かわる",
+        "meaning": "substitute"
+      },
+      {
+        "kanji": "代える",
+        "furigana": "かえる",
+        "meaning": "replace"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "時代",
+        "furigana": "じだい",
+        "meaning": "era, period"
+      },
+      {
+        "kanji": "電話代",
+        "furigana": "でんわだい",
+        "meaning": "phone bill"
+      },
+      {
+        "kanji": "代金",
+        "furigana": "だいきん",
+        "meaning": "charge, price"
+      }
+    ]
+  },
+  {
+    "kanji": "曜",
+    "strokes": 18,
+    "meaning": "",
+    "kunyomi": [],
+    "onyomi": [
+      {
+        "kanji": "～曜日",
+        "furigana": "～ようび",
+        "meaning": "day of the week"
+      },
+      {
+        "kanji": "月曜日",
+        "furigana": "げつようび",
+        "meaning": "Monday"
+      }
+    ]
+  },
+  {
+    "kanji": "急",
+    "strokes": 9,
+    "meaning": "rush, urgent",
+    "kunyomi": [
+      {
+        "kanji": "急ぐ",
+        "furigana": "いそぐ",
+        "meaning": "hurry up, rush"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "急に",
+        "furigana": "きゅうに",
+        "meaning": "suddenly"
+      },
+      {
+        "kanji": "急行",
+        "furigana": "きゅうこう",
+        "meaning": "move at high speed, express"
+      }
+    ]
+  },
+  {
+    "kanji": "最",
+    "strokes": 12,
+    "meaning": "utmost, extreme",
+    "kunyomi": [
+      {
+        "kanji": "最も",
+        "furigana": "もっとも",
+        "meaning": "most"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "最後",
+        "furigana": "さいご",
+        "meaning": "last, end"
+      },
+      {
+        "kanji": "最近",
+        "furigana": "さいきん",
+        "meaning": "recently, lately"
+      },
+      {
+        "kanji": "最高",
+        "furigana": "さいこう",
+        "meaning": "the most, highest"
+      },
+      {
+        "kanji": "最低",
+        "furigana": "さいてい",
+        "meaning": "worst, lowest"
+      }
+    ]
+  },
+  {
+    "kanji": "度",
+    "strokes": 9,
+    "meaning": "degree, time, occurrence",
+    "kunyomi": [
+      {
+        "kanji": "度に",
+        "furigana": "たびに",
+        "meaning": "each time, whenever"
+      },
+      {
+        "kanji": "(something",
+        "furigana": "happens)",
+        "meaning": ""
+      },
+      {
+        "kanji": "度々",
+        "furigana": "たびたび",
+        "meaning": "frequently, often"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "温度",
+        "furigana": "おんど",
+        "meaning": "temperature"
+      },
+      {
+        "kanji": "角度",
+        "furigana": "かくど",
+        "meaning": "angle, degree of an angle"
+      },
+      {
+        "kanji": "十度",
+        "furigana": "じゅうど",
+        "meaning": "10 degrees, 10 times"
+      }
+    ]
+  },
+  {
+    "kanji": "回",
+    "strokes": 6,
+    "meaning": "times, revolve",
+    "kunyomi": [
+      {
+        "kanji": "回す",
+        "furigana": "まわす",
+        "meaning": "turn, rotate"
+      },
+      {
+        "kanji": "回る",
+        "furigana": "まわる",
+        "meaning": "revolve"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "一回",
+        "furigana": "いっかい",
+        "meaning": "once"
+      },
+      {
+        "kanji": "何回",
+        "furigana": "なんかい",
+        "meaning": "how many times"
+      },
+      {
+        "kanji": "次回",
+        "furigana": "じかい",
+        "meaning": "next time"
+      },
+      {
+        "kanji": "回転",
+        "furigana": "かいてん",
+        "meaning": "rotation"
+      }
+    ]
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "kanji": "私",
+    "strokes": 7,
+    "meaning": "I, private",
+    "kunyomi": [
+      {
+        "kanji": "私",
+        "furigana": "わたくし・わたし",
+        "meaning": "I"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "私立",
+        "furigana": "しりつ",
+        "meaning": "private"
+      },
+      {
+        "kanji": "私立学校",
+        "furigana": "しりつがっこう",
+        "meaning": "private school"
+      },
+      {
+        "kanji": "公私",
+        "furigana": "こうし",
+        "meaning": "public and private"
+      }
+    ]
+  },
+  {
+    "kanji": "兄",
+    "strokes": 5,
+    "meaning": "older brother",
+    "kunyomi": [
+      {
+        "kanji": "兄",
+        "furigana": "あに",
+        "meaning": "one’s older brother"
+      },
+      {
+        "kanji": "お兄さん",
+        "furigana": "おにいさん",
+        "meaning": "older brother"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "兄弟",
+        "furigana": "きょうだい",
+        "meaning": "sibling"
+      }
+    ]
+  },
+  {
+    "kanji": "弟",
+    "strokes": 7,
+    "meaning": "younger brother",
+    "kunyomi": [
+      {
+        "kanji": "弟",
+        "furigana": "おとうと",
+        "meaning": "younger brother"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "兄弟",
+        "furigana": "きょうだい",
+        "meaning": "sibling"
+      }
+    ]
+  },
+  {
+    "kanji": "姉",
+    "strokes": 8,
+    "meaning": "older sister",
+    "kunyomi": [
+      {
+        "kanji": "姉",
+        "furigana": "あね",
+        "meaning": "one’s older sister"
+      },
+      {
+        "kanji": "お姉さん",
+        "furigana": "おねえさん",
+        "meaning": "older sister"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "姉妹",
+        "furigana": "しまい",
+        "meaning": "sisters"
+      }
+    ]
+  },
+  {
+    "kanji": "妹",
+    "strokes": 8,
+    "meaning": "younger sister",
+    "kunyomi": [
+      {
+        "kanji": "妹",
+        "furigana": "いもうと",
+        "meaning": "younger sister"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "姉妹",
+        "furigana": "しまい",
+        "meaning": "sisters"
+      }
+    ]
+  },
+  {
+    "kanji": "妻",
+    "strokes": 8,
+    "meaning": "wife",
+    "kunyomi": [
+      {
+        "kanji": "妻",
+        "furigana": "つま",
+        "meaning": "wife"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "夫妻",
+        "furigana": "ふさい",
+        "meaning": "married couple"
+      }
+    ]
+  },
+  {
+    "kanji": "祖",
+    "strokes": 9,
+    "meaning": "ancestor",
+    "kunyomi": [],
+    "onyomi": [
+      {
+        "kanji": "祖父",
+        "furigana": "そふ",
+        "meaning": "grandfather"
+      },
+      {
+        "kanji": "祖母",
+        "furigana": "そぼ",
+        "meaning": "grandmother"
+      }
+    ]
+  },
+  {
+    "kanji": "両",
+    "strokes": 6,
+    "meaning": "both",
+    "kunyomi": [],
+    "onyomi": [
+      {
+        "kanji": "両親",
+        "furigana": "りょうしん",
+        "meaning": "parents"
+      },
+      {
+        "kanji": "両手",
+        "furigana": "りょうて",
+        "meaning": "both hands"
+      },
+      {
+        "kanji": "両方",
+        "furigana": "りょうほう",
+        "meaning": "both"
+      },
+      {
+        "kanji": "両替",
+        "furigana": "りょうがえ",
+        "meaning": "money exchange"
+      }
+    ]
+  },
+  {
+    "kanji": "親",
+    "strokes": 16,
+    "meaning": "parent, familiarity",
+    "kunyomi": [
+      {
+        "kanji": "親しい",
+        "furigana": "したしい",
+        "meaning": "close, intimate"
+      },
+      {
+        "kanji": "親",
+        "furigana": "おや",
+        "meaning": "parents"
+      },
+      {
+        "kanji": "父親",
+        "furigana": "ちちおや",
+        "meaning": "father"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "親切な",
+        "furigana": "しんせつな",
+        "meaning": "kind"
+      },
+      {
+        "kanji": "両親",
+        "furigana": "りょうしん",
+        "meaning": "parent"
+      }
+    ]
+  },
+  {
+    "kanji": "主",
+    "strokes": 5,
+    "meaning": "chief, lord, mainly",
+    "kunyomi": [
+      {
+        "kanji": "主に",
+        "furigana": "おもに",
+        "meaning": "mainly, chiefly"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "主人",
+        "furigana": "しゅじん",
+        "meaning": "husband"
+      },
+      {
+        "kanji": "主婦",
+        "furigana": "しゅふ",
+        "meaning": "housewife"
+      },
+      {
+        "kanji": "主役",
+        "furigana": "しゅやく",
+        "meaning": "the leading part/role/actor"
+      }
+    ]
+  }
+]

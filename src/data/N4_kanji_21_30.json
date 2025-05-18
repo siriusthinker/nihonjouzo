@@ -1,0 +1,277 @@
+[
+  {
+    "kanji": "歩",
+    "strokes": 8,
+    "meaning": "walk",
+    "kunyomi": [
+      {
+        "kanji": "歩く",
+        "furigana": "あるく",
+        "meaning": "walk"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "進歩",
+        "furigana": "しんぽ",
+        "meaning": "progress"
+      },
+      {
+        "kanji": "徒歩",
+        "furigana": "とほ",
+        "meaning": "walking, on foot"
+      },
+      {
+        "kanji": "散歩",
+        "furigana": "さんぽ",
+        "meaning": "stroll, taking a walk"
+      }
+    ]
+  },
+  {
+    "kanji": "走",
+    "strokes": 7,
+    "meaning": "run",
+    "kunyomi": [
+      {
+        "kanji": "走る",
+        "furigana": "はしる",
+        "meaning": "run"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "走者*",
+        "furigana": "そうしゃ",
+        "meaning": "runner"
+      }
+    ]
+  },
+  {
+    "kanji": "起",
+    "strokes": 10,
+    "meaning": "wake up",
+    "kunyomi": [
+      {
+        "kanji": "起きる",
+        "furigana": "おきる",
+        "meaning": "wake up"
+      },
+      {
+        "kanji": "起こす",
+        "furigana": "おこす",
+        "meaning": "wake someone up"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "起立",
+        "furigana": "きりつ",
+        "meaning": "standing up"
+      },
+      {
+        "kanji": "起源*",
+        "furigana": "きげん",
+        "meaning": "origin"
+      },
+      {
+        "kanji": "起床*",
+        "furigana": "きしょう",
+        "meaning": "getting out of bed"
+      }
+    ]
+  },
+  {
+    "kanji": "寝",
+    "strokes": 13,
+    "meaning": "sleep",
+    "kunyomi": [
+      {
+        "kanji": "寝る",
+        "furigana": "ねる",
+        "meaning": "sleep"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "寝室",
+        "furigana": "しんしつ",
+        "meaning": "bedroom"
+      },
+      {
+        "kanji": "就寝*",
+        "furigana": "しゅうしん",
+        "meaning": "sleeping, one’s bedtime"
+      }
+    ]
+  },
+  {
+    "kanji": "泳",
+    "strokes": 8,
+    "meaning": "swim",
+    "kunyomi": [
+      {
+        "kanji": "泳ぐ",
+        "furigana": "およぐ",
+        "meaning": "swim"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "水泳",
+        "furigana": "すいえい",
+        "meaning": "swimming"
+      }
+    ]
+  },
+  {
+    "kanji": "通",
+    "strokes": 10,
+    "meaning": "pass, commute",
+    "kunyomi": [
+      {
+        "kanji": "通る",
+        "furigana": "とおる",
+        "meaning": "pass"
+      },
+      {
+        "kanji": "通う",
+        "furigana": "かよう",
+        "meaning": "commute"
+      },
+      {
+        "kanji": "通り",
+        "furigana": "とおり",
+        "meaning": "passage, street"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "交通",
+        "furigana": "こうつう",
+        "meaning": "traffic, transportation"
+      },
+      {
+        "kanji": "通路",
+        "furigana": "つうろ",
+        "meaning": "passage, pathway"
+      },
+      {
+        "kanji": "通信",
+        "furigana": "つうしん",
+        "meaning": "correspondence,"
+      }
+    ]
+  },
+  {
+    "kanji": "降",
+    "strokes": 10,
+    "meaning": "go down, precipitate",
+    "kunyomi": [
+      {
+        "kanji": "降りる",
+        "furigana": "おりる",
+        "meaning": "get down, get off"
+      },
+      {
+        "kanji": "降る",
+        "furigana": "ふる",
+        "meaning": "fall (rain/snow)"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "以降",
+        "furigana": "いこう",
+        "meaning": "hereafter"
+      }
+    ]
+  },
+  {
+    "kanji": "乗",
+    "strokes": 9,
+    "meaning": "ride",
+    "kunyomi": [
+      {
+        "kanji": "乗る",
+        "furigana": "のる",
+        "meaning": "ride"
+      },
+      {
+        "kanji": "物",
+        "furigana": "のりもの",
+        "meaning": "vehicle"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "乗客",
+        "furigana": "じょうきゃく",
+        "meaning": "passenger"
+      },
+      {
+        "kanji": "搭乗*",
+        "furigana": "とうじょう",
+        "meaning": "boarding"
+      }
+    ]
+  },
+  {
+    "kanji": "建",
+    "strokes": 9,
+    "meaning": "build",
+    "kunyomi": [
+      {
+        "kanji": "建てる",
+        "furigana": "たてる",
+        "meaning": "build"
+      },
+      {
+        "kanji": "建物",
+        "furigana": "たてもの",
+        "meaning": "building"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "建設*",
+        "furigana": "けんせつ",
+        "meaning": "construction"
+      },
+      {
+        "kanji": "建設的な*",
+        "furigana": "けんせつてきな",
+        "meaning": "constructive"
+      }
+    ]
+  },
+  {
+    "kanji": "働",
+    "strokes": 13,
+    "meaning": "work",
+    "kunyomi": [
+      {
+        "kanji": "働く",
+        "furigana": "はたらく",
+        "meaning": "work"
+      },
+      {
+        "kanji": "者",
+        "furigana": "はたらきもの",
+        "meaning": "hardworker"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "労働*",
+        "furigana": "ろうどう",
+        "meaning": "work, labor"
+      },
+      {
+        "kanji": "労働者*",
+        "furigana": "ろうどうしゃ",
+        "meaning": "worker, laborer"
+      }
+    ]
+  }
+]

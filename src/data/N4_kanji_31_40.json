@@ -1,0 +1,302 @@
+[
+  {
+    "kanji": "思",
+    "strokes": 9,
+    "meaning": "think",
+    "kunyomi": [
+      {
+        "kanji": "思う",
+        "furigana": "おもう",
+        "meaning": "think"
+      },
+      {
+        "kanji": "思い出す",
+        "furigana": "おもいだす",
+        "meaning": "recall"
+      },
+      {
+        "kanji": "出",
+        "furigana": "おもいで",
+        "meaning": "memory"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "意思",
+        "furigana": "いし",
+        "meaning": "intention, purpose"
+      },
+      {
+        "kanji": "思想*",
+        "furigana": "しそう",
+        "meaning": "thought, idea"
+      }
+    ]
+  },
+  {
+    "kanji": "考",
+    "strokes": 6,
+    "meaning": "consider, think over",
+    "kunyomi": [
+      {
+        "kanji": "考える",
+        "furigana": "かんがえる",
+        "meaning": "think about"
+      },
+      {
+        "kanji": "方",
+        "furigana": "かんがえかた",
+        "meaning": "view, way of thinking"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "思考",
+        "furigana": "しこう",
+        "meaning": "thinking, thought,"
+      },
+      {
+        "kanji": "思考力",
+        "furigana": "しこうりょく",
+        "meaning": "thinking ability"
+      },
+      {
+        "kanji": "参考*",
+        "furigana": "さんこう",
+        "meaning": "reference"
+      }
+    ]
+  },
+  {
+    "kanji": "死",
+    "strokes": 6,
+    "meaning": "die",
+    "kunyomi": [
+      {
+        "kanji": "死ぬ",
+        "furigana": "しぬ",
+        "meaning": "die"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "死",
+        "furigana": "し",
+        "meaning": "death"
+      },
+      {
+        "kanji": "死者",
+        "furigana": "ししゃ",
+        "meaning": "dead person, deceased"
+      },
+      {
+        "kanji": "死体*",
+        "furigana": "したい",
+        "meaning": "dead body, corpse"
+      }
+    ]
+  },
+  {
+    "kanji": "始",
+    "strokes": 8,
+    "meaning": "begin",
+    "kunyomi": [
+      {
+        "kanji": "始まる",
+        "furigana": "はじまる",
+        "meaning": "be started"
+      },
+      {
+        "kanji": "始める",
+        "furigana": "はじめる",
+        "meaning": "start"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "開始",
+        "furigana": "かいし",
+        "meaning": "start, commencement"
+      },
+      {
+        "kanji": "始業*",
+        "furigana": "しぎょう",
+        "meaning": "start of work"
+      },
+      {
+        "kanji": "始業時間*",
+        "furigana": "しぎょうじかん",
+        "meaning": "start time of work"
+      }
+    ]
+  },
+  {
+    "kanji": "続",
+    "strokes": 13,
+    "meaning": "continue",
+    "kunyomi": [
+      {
+        "kanji": "続く",
+        "furigana": "つづく",
+        "meaning": "be continued"
+      },
+      {
+        "kanji": "続ける",
+        "furigana": "つづける",
+        "meaning": "continue"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "継続*",
+        "furigana": "けいぞく",
+        "meaning": "continuation"
+      }
+    ]
+  },
+  {
+    "kanji": "終",
+    "strokes": 11,
+    "meaning": "end",
+    "kunyomi": [
+      {
+        "kanji": "終わる",
+        "furigana": "おわる",
+        "meaning": "finish/end"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "終点",
+        "furigana": "しゅうてん",
+        "meaning": "terminus, last stop"
+      },
+      {
+        "kanji": "最終",
+        "furigana": "さいしゅう",
+        "meaning": "last, final, closing"
+      }
+    ]
+  },
+  {
+    "kanji": "習",
+    "strokes": 11,
+    "meaning": "learn",
+    "kunyomi": [
+      {
+        "kanji": "習う",
+        "furigana": "ならう",
+        "meaning": "learn, study"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "練習",
+        "furigana": "れんしゅう",
+        "meaning": "practice"
+      },
+      {
+        "kanji": "予習",
+        "furigana": "よしゅう",
+        "meaning": "preparation for lesson"
+      },
+      {
+        "kanji": "復習*",
+        "furigana": "ふくしゅう",
+        "meaning": "review of lesson"
+      }
+    ]
+  },
+  {
+    "kanji": "教",
+    "strokes": 11,
+    "meaning": "teach",
+    "kunyomi": [
+      {
+        "kanji": "教える",
+        "furigana": "おしえる",
+        "meaning": "teach"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "教室",
+        "furigana": "きょうしつ",
+        "meaning": "classroom"
+      },
+      {
+        "kanji": "教会",
+        "furigana": "きょうかい",
+        "meaning": "church"
+      },
+      {
+        "kanji": "教科書",
+        "furigana": "きょうかしょ",
+        "meaning": "textbook"
+      },
+      {
+        "kanji": "教材*",
+        "furigana": "きょうざい",
+        "meaning": "teaching materials"
+      }
+    ]
+  },
+  {
+    "kanji": "答",
+    "strokes": 12,
+    "meaning": "answer",
+    "kunyomi": [
+      {
+        "kanji": "答える",
+        "furigana": "こたえる",
+        "meaning": "answer, reply"
+      },
+      {
+        "kanji": "答え",
+        "furigana": "こたえ",
+        "meaning": "answer"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "回答",
+        "furigana": "かいとう",
+        "meaning": "reply, answer"
+      },
+      {
+        "kanji": "回答用紙",
+        "furigana": "かいとうようし",
+        "meaning": "answer sheet"
+      }
+    ]
+  },
+  {
+    "kanji": "集",
+    "strokes": 12,
+    "meaning": "gather, meet",
+    "kunyomi": [
+      {
+        "kanji": "集める",
+        "furigana": "あつめる",
+        "meaning": "gather, collect"
+      },
+      {
+        "kanji": "集まる",
+        "furigana": "あつまる",
+        "meaning": "meet, assemble"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "集合",
+        "furigana": "しゅうごう",
+        "meaning": "gathering, assembly"
+      },
+      {
+        "kanji": "集落*",
+        "furigana": "しゅうらく",
+        "meaning": "community, village"
+      }
+    ]
+  }
+]

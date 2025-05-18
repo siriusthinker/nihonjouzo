@@ -1,0 +1,286 @@
+[
+  {
+    "kanji": "工",
+    "strokes": 3,
+    "meaning": "manufacture, craft",
+    "kunyomi": [],
+    "onyomi": [
+      {
+        "kanji": "工事",
+        "furigana": "こうじ",
+        "meaning": "construction work"
+      },
+      {
+        "kanji": "工場",
+        "furigana": "こうじょう",
+        "meaning": "factory, plant"
+      },
+      {
+        "kanji": "工業",
+        "furigana": "こうぎょう",
+        "meaning": "manufacturing industry"
+      },
+      {
+        "kanji": "工学",
+        "furigana": "こうがく",
+        "meaning": "engineering"
+      },
+      {
+        "kanji": "工芸*",
+        "furigana": "こうげい",
+        "meaning": "handicraft"
+      }
+    ]
+  },
+  {
+    "kanji": "業",
+    "strokes": 13,
+    "meaning": "vocation, business, art",
+    "kunyomi": [],
+    "onyomi": [
+      {
+        "kanji": "工業",
+        "furigana": "こうぎょう",
+        "meaning": "manufacturing industry"
+      },
+      {
+        "kanji": "商業",
+        "furigana": "しょうぎょう",
+        "meaning": "commerce"
+      },
+      {
+        "kanji": "失業",
+        "furigana": "しつぎょう",
+        "meaning": "unemployment"
+      },
+      {
+        "kanji": "営業",
+        "furigana": "えいぎょう",
+        "meaning": "business, trade"
+      }
+    ]
+  },
+  {
+    "kanji": "場",
+    "strokes": 12,
+    "meaning": "place",
+    "kunyomi": [
+      {
+        "kanji": "場所",
+        "furigana": "ばしょ",
+        "meaning": "place"
+      },
+      {
+        "kanji": "広場",
+        "furigana": "ひろば",
+        "meaning": "plaza, square"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "工場",
+        "furigana": "こうじょう",
+        "meaning": "factory, plant"
+      },
+      {
+        "kanji": "駐車場",
+        "furigana": "ちゅうしゃじょう",
+        "meaning": "parking lot"
+      }
+    ]
+  },
+  {
+    "kanji": "台",
+    "strokes": 5,
+    "meaning": "stand, stool",
+    "kunyomi": [],
+    "onyomi": [
+      {
+        "kanji": "台所",
+        "furigana": "だいどころ",
+        "meaning": "kitchen"
+      },
+      {
+        "kanji": "台風",
+        "furigana": "たいふう",
+        "meaning": "typhoon"
+      },
+      {
+        "kanji": "～台",
+        "furigana": "～だい",
+        "meaning": "counter for cars, machine"
+      }
+    ]
+  },
+  {
+    "kanji": "所",
+    "strokes": 8,
+    "meaning": "place",
+    "kunyomi": [
+      {
+        "kanji": "所",
+        "furigana": "ところ",
+        "meaning": "place"
+      },
+      {
+        "kanji": "台所",
+        "furigana": "だいどころ",
+        "meaning": "kitchen"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "場所",
+        "furigana": "ばしょ",
+        "meaning": "place"
+      },
+      {
+        "kanji": "住所",
+        "furigana": "じゅうしょ",
+        "meaning": "address"
+      },
+      {
+        "kanji": "近所",
+        "furigana": "きんじょ",
+        "meaning": "neighborhood"
+      }
+    ]
+  },
+  {
+    "kanji": "公",
+    "strokes": 4,
+    "meaning": "public",
+    "kunyomi": [],
+    "onyomi": [
+      {
+        "kanji": "公園",
+        "furigana": "こうえん",
+        "meaning": "park"
+      },
+      {
+        "kanji": "公立",
+        "furigana": "こうりつ",
+        "meaning": "public"
+      },
+      {
+        "kanji": "公私",
+        "furigana": "こうし",
+        "meaning": "public and private"
+      }
+    ]
+  },
+  {
+    "kanji": "園",
+    "strokes": 13,
+    "meaning": "garden, park",
+    "kunyomi": [],
+    "onyomi": [
+      {
+        "kanji": "公園",
+        "furigana": "こうえん",
+        "meaning": "park"
+      },
+      {
+        "kanji": "動物園",
+        "furigana": "どうぶつえん",
+        "meaning": "zoo"
+      },
+      {
+        "kanji": "遊園地",
+        "furigana": "ゆうえんち",
+        "meaning": "amusement park"
+      },
+      {
+        "kanji": "幼稚園*",
+        "furigana": "ようちえん",
+        "meaning": "kindergarten"
+      }
+    ]
+  },
+  {
+    "kanji": "堂",
+    "strokes": 11,
+    "meaning": "hall",
+    "kunyomi": [],
+    "onyomi": [
+      {
+        "kanji": "食堂",
+        "furigana": "しょくどう",
+        "meaning": "dining room, canteen"
+      },
+      {
+        "kanji": "講堂*",
+        "furigana": "こうどう",
+        "meaning": "auditorium"
+      },
+      {
+        "kanji": "公会堂*",
+        "furigana": "こうかいどう",
+        "meaning": "public hall"
+      }
+    ]
+  },
+  {
+    "kanji": "部",
+    "strokes": 11,
+    "meaning": "section",
+    "kunyomi": [
+      {
+        "kanji": "部屋",
+        "furigana": "へや",
+        "meaning": "room"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "～部",
+        "furigana": "～ぶ",
+        "meaning": "～department, ～section"
+      },
+      {
+        "kanji": "部分",
+        "furigana": "ぶぶん",
+        "meaning": "part, section"
+      },
+      {
+        "kanji": "一部",
+        "furigana": "いちぶ",
+        "meaning": "one part, one portion"
+      },
+      {
+        "kanji": "部室",
+        "furigana": "ぶしつ",
+        "meaning": "club room"
+      }
+    ]
+  },
+  {
+    "kanji": "屋",
+    "strokes": 9,
+    "meaning": "house, small shop",
+    "kunyomi": [
+      {
+        "kanji": "部屋",
+        "furigana": "へや",
+        "meaning": "room"
+      },
+      {
+        "kanji": "花屋",
+        "furigana": "はなや",
+        "meaning": "flower shop"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "屋上",
+        "furigana": "おくじょう",
+        "meaning": "rooftop"
+      },
+      {
+        "kanji": "屋外",
+        "furigana": "おくがい",
+        "meaning": "outdoors"
+      }
+    ]
+  }
+]

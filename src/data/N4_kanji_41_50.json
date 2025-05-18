@@ -1,0 +1,252 @@
+[
+  {
+    "kanji": "速",
+    "strokes": 10,
+    "meaning": "fast",
+    "kunyomi": [
+      {
+        "kanji": "速い",
+        "furigana": "はやい",
+        "meaning": "fast"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "速度",
+        "furigana": "そくど",
+        "meaning": "speed"
+      },
+      {
+        "kanji": "早速",
+        "furigana": "さっそく",
+        "meaning": "immediately, straightaway"
+      },
+      {
+        "kanji": "速達",
+        "furigana": "そくたつ",
+        "meaning": "express delivery"
+      }
+    ]
+  },
+  {
+    "kanji": "遠",
+    "strokes": 13,
+    "meaning": "far",
+    "kunyomi": [
+      {
+        "kanji": "遠い",
+        "furigana": "とおい",
+        "meaning": "far"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "遠足",
+        "furigana": "えんそく",
+        "meaning": "excursion, outing"
+      }
+    ]
+  },
+  {
+    "kanji": "遅",
+    "strokes": 12,
+    "meaning": "late",
+    "kunyomi": [
+      {
+        "kanji": "遅い",
+        "furigana": "おそい",
+        "meaning": "late"
+      },
+      {
+        "kanji": "遅れる",
+        "furigana": "おくれる",
+        "meaning": "be late"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "遅刻*",
+        "furigana": "ちこく",
+        "meaning": "lateness"
+      },
+      {
+        "kanji": "遅延*",
+        "furigana": "ちえん",
+        "meaning": "delay"
+      }
+    ]
+  },
+  {
+    "kanji": "悪",
+    "strokes": 11,
+    "meaning": "bad",
+    "kunyomi": [
+      {
+        "kanji": "悪い",
+        "furigana": "わるい",
+        "meaning": "bad"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "最悪",
+        "furigana": "さいあく",
+        "meaning": "the worst"
+      },
+      {
+        "kanji": "悪魔*",
+        "furigana": "あくま",
+        "meaning": "devil, demon"
+      }
+    ]
+  },
+  {
+    "kanji": "強",
+    "strokes": 11,
+    "meaning": "strong",
+    "kunyomi": [
+      {
+        "kanji": "強い",
+        "furigana": "つよい",
+        "meaning": "strong"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "勉強する",
+        "furigana": "べんきょうする",
+        "meaning": "study"
+      },
+      {
+        "kanji": "強弱",
+        "furigana": "きょうじゃく",
+        "meaning": "strong and weak"
+      }
+    ]
+  },
+  {
+    "kanji": "太",
+    "strokes": 4,
+    "meaning": "thick, plump",
+    "kunyomi": [
+      {
+        "kanji": "太い",
+        "furigana": "ふとい",
+        "meaning": "thick, fat"
+      },
+      {
+        "kanji": "太る",
+        "furigana": "ふとる",
+        "meaning": "gain weight, fatten"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "太陽*",
+        "furigana": "たいよう",
+        "meaning": "sun"
+      }
+    ]
+  },
+  {
+    "kanji": "重",
+    "strokes": 9,
+    "meaning": "heavy",
+    "kunyomi": [
+      {
+        "kanji": "重い",
+        "furigana": "おもい",
+        "meaning": "heavy"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "重要な",
+        "furigana": "じゅうような",
+        "meaning": "important"
+      },
+      {
+        "kanji": "重大な",
+        "furigana": "じゅうだいな",
+        "meaning": "serious, important"
+      },
+      {
+        "kanji": "体重",
+        "furigana": "たいじゅう",
+        "meaning": "body weight"
+      },
+      {
+        "kanji": "重体",
+        "furigana": "じゅうたい",
+        "meaning": "critical condition (body)"
+      }
+    ]
+  },
+  {
+    "kanji": "軽",
+    "strokes": 12,
+    "meaning": "light",
+    "kunyomi": [
+      {
+        "kanji": "軽い",
+        "furigana": "かるい",
+        "meaning": "light"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "軽傷*",
+        "furigana": "けいしょう",
+        "meaning": "slight injury"
+      }
+    ]
+  },
+  {
+    "kanji": "広",
+    "strokes": 5,
+    "meaning": "wide",
+    "kunyomi": [
+      {
+        "kanji": "広い",
+        "furigana": "ひろい",
+        "meaning": "wide, large"
+      },
+      {
+        "kanji": "広場",
+        "furigana": "ひろば",
+        "meaning": "plaza, square"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "広大",
+        "furigana": "こうだい",
+        "meaning": "vast, extensive"
+      }
+    ]
+  },
+  {
+    "kanji": "低",
+    "strokes": 7,
+    "meaning": "low",
+    "kunyomi": [
+      {
+        "kanji": "低い",
+        "furigana": "ひくい",
+        "meaning": "low, short (height)"
+      }
+    ],
+    "onyomi": [
+      {
+        "kanji": "最低",
+        "furigana": "さいてい",
+        "meaning": "the lowest"
+      },
+      {
+        "kanji": "低下",
+        "furigana": "ていか",
+        "meaning": "fall, decline"
+      }
+    ]
+  }
+]
