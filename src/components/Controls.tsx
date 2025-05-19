@@ -45,7 +45,7 @@ export function Controls({
 				</div>
 			</div>
 
-			{/* <div className="mt-6 flex flex-wrap gap-3">
+			<div className="mt-6 flex flex-wrap gap-3">
 				<button
 					onClick={fetchRandomKanji}
 					className="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700"
@@ -53,7 +53,7 @@ export function Controls({
 					Next Kanji
 				</button>
 
-				<button
+				{/* <button
 					onClick={() => setShowMeaning(!showMeaning)}
 					className="px-4 py-2 bg-green-600 text-white rounded-md hover:bg-green-700"
 				>
@@ -68,8 +68,8 @@ export function Controls({
 					className="px-4 py-2 bg-purple-600 text-white rounded-md hover:bg-purple-700 disabled:bg-purple-300"
 				>
 					Save Kanji
-				</button>
-			</div> */}
+				</button> */}
+			</div>
 		</div>
 	);
 }
