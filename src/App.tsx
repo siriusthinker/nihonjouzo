@@ -13,12 +13,12 @@ import set6 from "./data/N4_kanji_51_60.json";
 
 // Combine all sets with their identifiers
 const allKanjiSets = [
-	{ id: 1, name: "Set 1", data: set1 },
-	{ id: 2, name: "Set 2", data: set2 },
-    { id: 3, name: "Set 3", data: set3 },
-	{ id: 4, name: "Set 4", data: set4 },
-    { id: 5, name: "Set 5", data: set5 },
-	{ id: 6, name: "Set 6", data: set6 },
+	{ id: 1, name: "Sakura Set 1", data: set1 },
+	{ id: 2, name: "Sakura Set 2", data: set2 },
+	{ id: 3, name: "Sakura Set 3", data: set3 },
+	{ id: 4, name: "Sakura Set 4", data: set4 },
+	{ id: 5, name: "Sakura Set 5", data: set5 },
+	{ id: 6, name: "Sakura Set 6", data: set6 },
 	// Add more sets as needed
 ];
 
@@ -35,8 +35,9 @@ function App() {
 	const [touchStart, setTouchStart] = useState(0);
 	const [touchEnd, setTouchEnd] = useState(0);
 	const [currentIndex, setCurrentIndex] = useState(0);
+	const [randomMode, setRandomMode] = useState<boolean>(false);
 
-    // Load kanji when set changes
+	// Load kanji when set changes
 	useEffect(() => {
 		loadCurrentSet();
 	}, [currentSet]);
@@ -88,18 +89,29 @@ function App() {
 				throw new Error("No kanji found in current set");
 			}
 
-			// Get next kanji in sequence
-			const nextIndex = (currentIndex + 1) % kanjiList.length;
-			setCurrentIndex(nextIndex);
-			setKanji(kanjiList[nextIndex]);
+			let nextKanji;
+			if (randomMode) {
+				// Random selection
+				nextKanji = kanjiList[Math.floor(Math.random() * kanjiList.length)];
+			} else {
+				// Sequential selection
+				const nextIndex = (currentIndex + 1) % kanjiList.length;
+				setCurrentIndex(nextIndex);
+				nextKanji = kanjiList[nextIndex];
+			}
+
+			setKanji(nextKanji);
 		} catch (err) {
-			// ... error handling
+			setError("Failed to load kanji. Please try again.");
+			console.error(err);
 		} finally {
 			setLoading(false);
 		}
 	};
 
 	const fetchPreviousKanji = () => {
+		if (randomMode) return;
+
 		setLoading(true);
 		setShowDetails(false);
 
@@ -111,13 +123,13 @@ function App() {
 				throw new Error("No kanji found in current set");
 			}
 
-			// Get previous kanji in sequence
 			const prevIndex =
 				(currentIndex - 1 + kanjiList.length) % kanjiList.length;
 			setCurrentIndex(prevIndex);
 			setKanji(kanjiList[prevIndex]);
 		} catch (err) {
-			// ... error handling
+			setError("Failed to load previous kanji.");
+			console.error(err);
 		} finally {
 			setLoading(false);
 		}
@@ -135,30 +147,6 @@ function App() {
 			fetchPreviousKanji();
 		}
 	};
-
-	//   const fetchRandomKanji = async () => {
-	//     setLoading(true)
-	//     setShowMeaning(false)
-	//     setError(null)
-
-	//     try {
-	//       // If we don't have a current list or need to refresh, load it
-	//       const kanjiList = currentKanjiList.length === 0 ? loadCurrentSet() : currentKanjiList
-
-	//       if (kanjiList.length === 0) {
-	//         throw new Error("No kanji found in current set")
-	//       }
-
-	//       // Get a random kanji from the current set
-	//       const randomKanji = kanjiList[Math.floor(Math.random() * kanjiList.length)]
-	//       setKanji(randomKanji)
-	//     } catch (err) {
-	//       setError('Failed to load kanji. Please try again.')
-	//       console.error(err)
-	//     } finally {
-	//       setLoading(false)
-	//     }
-	//   }
 
 	const saveCurrentKanji = () => {
 		if (kanji && !savedKanji.some((k) => k.character === kanji.character)) {
@@ -178,25 +166,13 @@ function App() {
 		setTouchEnd(e.targetTouches[0].clientX);
 	};
 
-	// const handleTouchEnd = () => {
-	// 	if (touchStart - touchEnd > 50) {
-	// 		// Swipe left
-	// 		fetchRandomKanji();
-	// 	}
-
-	// 	if (touchStart - touchEnd < -50) {
-	// 		// Swipe right - if you want to implement previous kanji
-	// 		// You'll need to track current index in the set
-	// 	}
-	// };
-
 	if (loading && !kanji) return <LoadingSpinner />;
 
 	return (
 		<div className="min-h-screen bg-gray-100 py-8">
 			<div className="max-w-4xl mx-auto px-4">
 				<h1 className="text-3xl font-bold text-center text-gray-800 mb-8">
-					日本語 漢字 Flashcards
+					日本語 N4 漢字
 				</h1>
 
 				{error && (
@@ -209,20 +185,23 @@ function App() {
 					currentSet={currentSet}
 					setCurrentSet={setCurrentSet}
 					fetchRandomKanji={fetchRandomKanji}
+					fetchPreviousKanji={fetchPreviousKanji}
 					showMeaning={showMeaning}
 					setShowMeaning={setShowMeaning}
 					saveCurrentKanji={saveCurrentKanji}
 					kanji={kanji}
 					savedKanji={savedKanji}
 					allKanjiSets={allKanjiSets}
+					randomMode={randomMode}
+					setRandomMode={setRandomMode}
 				/>
 
 				{kanji && (
 					<div
 						ref={cardRef}
-						onTouchStart={handleTouchStart}
-						onTouchMove={handleTouchMove}
-						onTouchEnd={handleTouchEnd}
+						// onTouchStart={handleTouchStart}
+						// onTouchMove={handleTouchMove}
+						// onTouchEnd={handleTouchEnd}
 						className="mb-8"
 					>
 						<KanjiCard
@@ -271,4 +250,3 @@ function App() {
 }
 
 export default App;
-
