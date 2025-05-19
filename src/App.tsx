@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { KanjiCard } from "./components/KanjiCard";
 import { Controls } from "./components/Controls";
 import { LoadingSpinner } from "./components/LoadingSpinner";
+import { QRCodeButton } from "./components/QRCodeButton";
 import { KanjiData, LocalKanjiData } from "./types";
 import set1 from "./data/N4_kanji_1_10.json"; // Contains exactly 10 kanji
 import set2 from "./data/N4_kanji_11_20.json"; // Contains exactly 10 kanji
@@ -245,6 +246,7 @@ function App() {
 					</div>
 				)}
 			</div>
+            <QRCodeButton />
 		</div>
 	);
 }
