@@ -79,14 +79,14 @@ export function Controls({
                             : 'bg-blue-600 hover:bg-blue-700'
                     } text-white`}
                 >
-                    Previous
+                   ← Prev
                 </button>
 
                 <button
                     onClick={fetchRandomKanji}
                     className="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700"
                 >
-                    Next Kanji
+                    Next →
                 </button>
 
                 {/* Uncomment if you want to use these buttons later */}

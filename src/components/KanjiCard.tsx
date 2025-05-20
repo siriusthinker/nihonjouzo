@@ -19,7 +19,7 @@ export function KanjiCard({
 			}`}
 			onClick={onToggleDetails}
 		>
-			<div className="kanji-character text-7xl text-center mb-6 text-black">
+			<div className="kanji-character text-7xl text-center mb-6 text-black font-japanese">
 				{kanji.character}
 			</div>
 			<div className="text-center text-gray-500 mb-4">
