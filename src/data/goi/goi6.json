@@ -1,0 +1,227 @@
+[
+  {
+    "kana": "きょうみ",
+    "kanji": "興味",
+    "english": "interests"
+  },
+  {
+    "kana": "しゅみ",
+    "kanji": "趣味",
+    "english": "hobby"
+  },
+  {
+    "kana": "たのしみ",
+    "kanji": "楽しみ",
+    "english": "enjoyment, pleasure"
+  },
+  {
+    "kana": "どくしょ",
+    "kanji": "読書",
+    "english": "reading"
+  },
+  {
+    "kana": "かいがいりょこう",
+    "kanji": "海外旅⾏",
+    "english": "foreign travel"
+  },
+  {
+    "kana": "にっき",
+    "kanji": "⽇記",
+    "english": "diary"
+  },
+  {
+    "kana": "けんがく",
+    "kanji": "⾒学",
+    "english": "field trip, study tour"
+  },
+  {
+    "kana": "スーツケース",
+    "kanji": null,
+    "english": "suitcase"
+  },
+  {
+    "kana": "こくさい",
+    "kanji": "国際",
+    "english": "international"
+  },
+  {
+    "kana": "しゅっぱつする",
+    "kanji": "出発する",
+    "english": "departure, to depart"
+  },
+  {
+    "kana": "とうちゃくする",
+    "kanji": "到着する",
+    "english": "arrival, to arrive"
+  },
+  {
+    "kana": "けんぶつする",
+    "kanji": "⾒物する",
+    "english": "sightseeing"
+  },
+  {
+    "kana": "げしゅくする",
+    "kanji": "下宿する",
+    "english": "boarding, to stay in a lodge"
+  },
+  {
+    "kana": "つり",
+    "kanji": "釣り",
+    "english": "fishing"
+  },
+  {
+    "kana": "つる",
+    "kanji": "釣る",
+    "english": "to fish"
+  },
+  {
+    "kana": "つれる",
+    "kanji": "連れる",
+    "english": "to lead, take"
+  },
+  {
+    "kana": "キャンセル（する）",
+    "kanji": null,
+    "english": "cancellation, to cancel"
+  },
+  {
+    "kana": "むかえにいく",
+    "kanji": "迎えに⾏く",
+    "english": "to go and meet someone"
+  },
+  {
+    "kana": "むかえる",
+    "kanji": "迎える",
+    "english": "to go out to meet"
+  },
+  {
+    "kana": "あんないする",
+    "kanji": "案内する",
+    "english": "information, to guide"
+  },
+  {
+    "kana": "まよう",
+    "kanji": "迷う",
+    "english": "to be puzzled"
+  },
+  {
+    "kana": "せんしゅ",
+    "kanji": "選⼿",
+    "english": "player"
+  },
+  {
+    "kana": "うんどうじょう",
+    "kanji": "運動場",
+    "english": "sports ground"
+  },
+  {
+    "kana": "たいいくかん",
+    "kanji": "体育館",
+    "english": "gymnasium"
+  },
+  {
+    "kana": "ジム",
+    "kanji": null,
+    "english": "gym"
+  },
+  {
+    "kana": "スキーじょう",
+    "kanji": "スキー場",
+    "english": "ski resort/area"
+  },
+  {
+    "kana": "じゅうどう",
+    "kanji": "柔道",
+    "english": "Judo"
+  },
+  {
+    "kana": "たっきゅう",
+    "kanji": null,
+    "english": "pingpong"
+  },
+  {
+    "kana": "ミス",
+    "kanji": null,
+    "english": "miss, error"
+  },
+  {
+    "kana": "かつ",
+    "kanji": "勝つ",
+    "english": "to win"
+  },
+  {
+    "kana": "まける",
+    "kanji": "負ける",
+    "english": "to lose, be defeated"
+  },
+  {
+    "kana": "せいこう（する）",
+    "kanji": "成功する",
+    "english": "success"
+  },
+  {
+    "kana": "しっぱい（する）",
+    "kanji": "失敗する",
+    "english": "failure, to fail"
+  },
+  {
+    "kana": "おうえんする",
+    "kanji": "応援する",
+    "english": "support, to support/cheer"
+  },
+  {
+    "kana": "さけぶ",
+    "kanji": "叫ぶ",
+    "english": "to shout, cry"
+  },
+  {
+    "kana": "すいえい（する）",
+    "kanji": "⽔泳する",
+    "english": "swimming, to swim"
+  },
+  {
+    "kana": "なげる",
+    "kanji": "投げる",
+    "english": "to throw"
+  },
+  {
+    "kana": "たたく",
+    "kanji": null,
+    "english": "to strike, to clap"
+  },
+  {
+    "kana": "すべる",
+    "kanji": null,
+    "english": "to slide (ski), slip (fall)"
+  },
+  {
+    "kana": "やった！",
+    "kanji": null,
+    "english": "to do, accomplish"
+  },
+  {
+    "kana": "にんきがある",
+    "kanji": "⼈気がある",
+    "english": "be famous, be popular"
+  },
+  {
+    "kana": "やっと",
+    "kanji": null,
+    "english": "at last, at length"
+  },
+  {
+    "kana": "きっと",
+    "kanji": null,
+    "english": "surely, certainly"
+  },
+  {
+    "kana": "ぜったいに",
+    "kanji": "絶対に",
+    "english": "absolutely"
+  },
+  {
+    "kana": "かならず",
+    "kanji": "必ず",
+    "english": "without fail, necessarily"
+  }
+]

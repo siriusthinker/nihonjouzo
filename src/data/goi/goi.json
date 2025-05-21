@@ -1,0 +1,1357 @@
+[
+  {
+    "kana": "ちょうし",
+    "kanji": "調⼦",
+    "english": "condition, state of health, state"
+  },
+  {
+    "kana": "ぐあい",
+    "kanji": "具合",
+    "english": "condition, state of health, state"
+  },
+  {
+    "kana": "せいかく",
+    "kanji": "性格",
+    "english": "character, personality"
+  },
+  {
+    "kana": "きぶん",
+    "kanji": "気分",
+    "english": "mood, feeling"
+  },
+  {
+    "kana": "きもち",
+    "kanji": "気持ち",
+    "english": "feelings, sensation"
+  },
+  {
+    "kana": "ちから",
+    "kanji": "⼒",
+    "english": "power, strength"
+  },
+  {
+    "kana": "こころ",
+    "kanji": "⼼",
+    "english": "heart, mind, spirit"
+  },
+  {
+    "kana": "しんぞう",
+    "kanji": null,
+    "english": "heart (organ)"
+  },
+  {
+    "kana": "かおいろ",
+    "kanji": "顔⾊",
+    "english": "color of face, complexion"
+  },
+  {
+    "kana": "まゆげ",
+    "kanji": null,
+    "english": "eye brow"
+  },
+  {
+    "kana": "ひげ",
+    "kanji": null,
+    "english": "beard"
+  },
+  {
+    "kana": "ほっぺた",
+    "kanji": null,
+    "english": "cheeks"
+  },
+  {
+    "kana": "のど",
+    "kanji": null,
+    "english": "throat"
+  },
+  {
+    "kana": "せなか",
+    "kanji": "背中",
+    "english": "back (body)"
+  },
+  {
+    "kana": "こし",
+    "kanji": null,
+    "english": "lower back"
+  },
+  {
+    "kana": "うで",
+    "kanji": null,
+    "english": "arm"
+  },
+  {
+    "kana": "むね",
+    "kanji": null,
+    "english": "chest, breast, heart"
+  },
+  {
+    "kana": "け",
+    "kanji": "⽑",
+    "english": "hair, fur"
+  },
+  {
+    "kana": "ち",
+    "kanji": "⾎",
+    "english": "blood"
+  },
+  {
+    "kana": "ひやけ",
+    "kanji": "⽇焼け",
+    "english": "sunburn"
+  },
+  {
+    "kana": "たいおん",
+    "kanji": "体温",
+    "english": "temperature (body)"
+  },
+  {
+    "kana": "たいおんけい",
+    "kanji": "体温計",
+    "english": "thermometer"
+  },
+  {
+    "kana": "かぜぐすり",
+    "kanji": "⾵邪薬",
+    "english": "cold medicine"
+  },
+  {
+    "kana": "ちゅうしゃ",
+    "kanji": null,
+    "english": "injection"
+  },
+  {
+    "kana": "うんどうぶそく",
+    "kanji": "運動不⾜",
+    "english": "lack of exercise"
+  },
+  {
+    "kana": "おみまい",
+    "kanji": "お⾒舞い",
+    "english": "visiting a sick person"
+  },
+  {
+    "kana": "にゅういんする",
+    "kanji": "⼊院する",
+    "english": "be admitted in hospital"
+  },
+  {
+    "kana": "たいいんする",
+    "kanji": "退院する",
+    "english": "be discharged from hospital"
+  },
+  {
+    "kana": "いたむ",
+    "kanji": "痛む",
+    "english": "to feel/have pain"
+  },
+  {
+    "kana": "けが（する）",
+    "kanji": null,
+    "english": "to get an injury"
+  },
+  {
+    "kana": "たおれる",
+    "kanji": "倒れる",
+    "english": "to fall down, collapse"
+  },
+  {
+    "kana": "かぜをひく",
+    "kanji": "⾵邪を引く",
+    "english": "to catch a cold"
+  },
+  {
+    "kana": "きをつける",
+    "kanji": "気を付ける",
+    "english": "to take care, be cautious"
+  },
+  {
+    "kana": "きがつく",
+    "kanji": "気が付く",
+    "english": "to notice, take care"
+  },
+  {
+    "kana": "ふとる",
+    "kanji": "太る",
+    "english": "to gain weight"
+  },
+  {
+    "kana": "やせる",
+    "kanji": null,
+    "english": "to lose weight"
+  },
+  {
+    "kana": "かわく",
+    "kanji": null,
+    "english": "to get dry"
+  },
+  {
+    "kana": "のどがかわく",
+    "kanji": null,
+    "english": "to be thirsty (throat is dry)"
+  },
+  {
+    "kana": "おなかがすく",
+    "kanji": null,
+    "english": "to be hungry (stomach is empty)"
+  },
+  {
+    "kana": "めがさめる",
+    "kanji": "⽬が覚める",
+    "english": "to open oneʼs eyes/wake up"
+  },
+  {
+    "kana": "めをとじる",
+    "kanji": "⽬を閉じる",
+    "english": "to close oneʼs eyes"
+  },
+  {
+    "kana": "うがいをする",
+    "kanji": null,
+    "english": "to gargle"
+  },
+  {
+    "kana": "じょうぶな",
+    "kanji": "丈夫な",
+    "english": "strong, solid, healthy"
+  },
+  {
+    "kana": "けんこうな",
+    "kanji": "健康な",
+    "english": "healthy"
+  },
+  {
+    "kana": "まっさおな",
+    "kanji": "真っ⻘な",
+    "english": "deadly pale, deep blue"
+  },
+  {
+    "kana": "マンション",
+    "kanji": null,
+    "english": "condominium, apartment"
+  },
+  {
+    "kana": "べっそう",
+    "kanji": null,
+    "english": "vacation home"
+  },
+  {
+    "kana": "おうせつま",
+    "kanji": "応接間",
+    "english": "reception room, parlour"
+  },
+  {
+    "kana": "かんりひ",
+    "kanji": "管理費",
+    "english": "administration cost"
+  },
+  {
+    "kana": "でんきだい",
+    "kanji": "電気代",
+    "english": "electricity"
+  },
+  {
+    "kana": "すいどう",
+    "kanji": "⽔道",
+    "english": "water supply"
+  },
+  {
+    "kana": "すいどうだい",
+    "kanji": "⽔道代",
+    "english": "water bill"
+  },
+  {
+    "kana": "かてい",
+    "kanji": "家庭",
+    "english": "household"
+  },
+  {
+    "kana": "かじ",
+    "kanji": "家事",
+    "english": "house work"
+  },
+  {
+    "kana": "たな",
+    "kanji": null,
+    "english": "shelf"
+  },
+  {
+    "kana": "とだな",
+    "kanji": null,
+    "english": "cupboard"
+  },
+  {
+    "kana": "おしいれ",
+    "kanji": "押し⼊れ",
+    "english": "closet"
+  },
+  {
+    "kana": "たんす",
+    "kanji": null,
+    "english": "chest, cabinet, drawer"
+  },
+  {
+    "kana": "そうこ",
+    "kanji": null,
+    "english": "storage, warehouse"
+  },
+  {
+    "kana": "かご",
+    "kanji": null,
+    "english": "basket, hamper"
+  },
+  {
+    "kana": "と",
+    "kanji": "⼾",
+    "english": "door"
+  },
+  {
+    "kana": "ゆか",
+    "kanji": null,
+    "english": "flooring"
+  },
+  {
+    "kana": "たたみ",
+    "kanji": "畳み",
+    "english": "TATAMI mat"
+  },
+  {
+    "kana": "ふとん",
+    "kanji": "布団",
+    "english": "Japanese mattress"
+  },
+  {
+    "kana": "まどガラス",
+    "kanji": "窓ガラス",
+    "english": "glass window"
+  },
+  {
+    "kana": "せんぷうき",
+    "kanji": null,
+    "english": "electric fan"
+  },
+  {
+    "kana": "だんぼう",
+    "kanji": null,
+    "english": "heater, stove"
+  },
+  {
+    "kana": "れいぼう",
+    "kanji": null,
+    "english": "aircon"
+  },
+  {
+    "kana": "かがみ",
+    "kanji": null,
+    "english": "mirror"
+  },
+  {
+    "kana": "タオル",
+    "kanji": null,
+    "english": "towel"
+  },
+  {
+    "kana": "ぼうはんカメラ",
+    "kanji": null,
+    "english": "surveillance camera"
+  },
+  {
+    "kana": "ばんぐみ",
+    "kanji": "番組",
+    "english": "T.V. channel/program"
+  },
+  {
+    "kana": "ひっこし",
+    "kanji": null,
+    "english": "house transfer"
+  },
+  {
+    "kana": "ひっこす",
+    "kanji": null,
+    "english": "to transfer (house)"
+  },
+  {
+    "kana": "かつどう",
+    "kanji": "活動",
+    "english": "activity"
+  },
+  {
+    "kana": "はいたつ",
+    "kanji": null,
+    "english": "delivery"
+  },
+  {
+    "kana": "きこくする",
+    "kanji": "帰国する",
+    "english": "to go back to one's country"
+  },
+  {
+    "kana": "ほうもんする",
+    "kanji": "訪問する",
+    "english": "visitation, to visit"
+  },
+  {
+    "kana": "たずねる",
+    "kanji": null,
+    "english": "to ask, inquire"
+  },
+  {
+    "kana": "さそう",
+    "kanji": null,
+    "english": "to invite, ask"
+  },
+  {
+    "kana": "しょうたいする",
+    "kanji": "招待する",
+    "english": "invitation, to invite (event)"
+  },
+  {
+    "kana": "たてる",
+    "kanji": "建てる",
+    "english": "to build"
+  },
+  {
+    "kana": "かざる",
+    "kanji": null,
+    "english": "to decorate"
+  },
+  {
+    "kana": "ロックする",
+    "kanji": null,
+    "english": "to lock"
+  },
+  {
+    "kana": "あんぜんな",
+    "kanji": "安全な",
+    "english": "safe, secure"
+  },
+  {
+    "kana": "きけんな",
+    "kanji": "危険な",
+    "english": "dangerous"
+  },
+  {
+    "kana": "おもに",
+    "kanji": "主に",
+    "english": "mainly, primarily"
+  },
+  {
+    "kana": "とくに",
+    "kanji": "特に",
+    "english": "especially, particularly"
+  },
+  {
+    "kana": "きちんと（した）",
+    "kanji": null,
+    "english": "accurately, exactly"
+  },
+  {
+    "kana": "じつは",
+    "kanji": "実は",
+    "english": "as a matter of fact"
+  },
+  {
+    "kana": "〜かた",
+    "kanji": null,
+    "english": "~way of doing Verb"
+  },
+  {
+    "kana": "〜やすい",
+    "kanji": null,
+    "english": "~easy to do Verb"
+  },
+  {
+    "kana": "〜にくい",
+    "kanji": null,
+    "english": "~hard to do Verb"
+  },
+  {
+    "kana": "〜はじめる",
+    "kanji": null,
+    "english": "~start to do Verb"
+  },
+  {
+    "kana": "〜おわる",
+    "kanji": null,
+    "english": "~finish doing Verb"
+  },
+  {
+    "kana": "〜つづける",
+    "kanji": null,
+    "english": "~continue doing Verb"
+  },
+  {
+    "kana": "〜だす",
+    "kanji": null,
+    "english": "~suddenly Verb"
+  },
+  {
+    "kana": "〜すぎる・すぎる",
+    "kanji": null,
+    "english": "~excessively, to exceed"
+  },
+  {
+    "kana": "しかた",
+    "kanji": "仕⽅",
+    "english": "way, method"
+  },
+  {
+    "kana": "かきかた",
+    "kanji": "書き⽅",
+    "english": "how to write, writing style"
+  },
+  {
+    "kana": "よみかた",
+    "kanji": "読み⽅",
+    "english": "how to read, reading style"
+  },
+  {
+    "kana": "れんらくさき",
+    "kanji": "連絡先",
+    "english": "contact address"
+  },
+  {
+    "kana": "きしゃ",
+    "kanji": "記者",
+    "english": "reporter"
+  },
+  {
+    "kana": "しんぶんきしゃ",
+    "kanji": "新聞記者",
+    "english": "newspaper reporter"
+  },
+  {
+    "kana": "さっか",
+    "kanji": "作家",
+    "english": "author, writer"
+  },
+  {
+    "kana": "しゃしんか",
+    "kanji": "写真家",
+    "english": "photographer"
+  },
+  {
+    "kana": "ほんやくしゃ",
+    "kanji": null,
+    "english": "translator"
+  },
+  {
+    "kana": "ほんやくする",
+    "kanji": null,
+    "english": "translation, to translate"
+  },
+  {
+    "kana": "つうやくしゃ",
+    "kanji": null,
+    "english": "interpreter"
+  },
+  {
+    "kana": "つうやくする",
+    "kanji": null,
+    "english": "interpretation, to interpret"
+  },
+  {
+    "kana": "いし",
+    "kanji": "医師",
+    "english": "doctor, physician"
+  },
+  {
+    "kana": "はいしゃ",
+    "kanji": "⻭医者",
+    "english": "dentist"
+  },
+  {
+    "kana": "かんごし",
+    "kanji": null,
+    "english": "nurse"
+  },
+  {
+    "kana": "かんごふ",
+    "kanji": null,
+    "english": "nurse"
+  },
+  {
+    "kana": "こうむいん",
+    "kanji": "公務員",
+    "english": "government worker"
+  },
+  {
+    "kana": "けいかん",
+    "kanji": null,
+    "english": "police (general)"
+  },
+  {
+    "kana": "けいさつ",
+    "kanji": null,
+    "english": "police (general)"
+  },
+  {
+    "kana": "(お)まわりさん",
+    "kanji": null,
+    "english": "police (police box)"
+  },
+  {
+    "kana": "ぎんこういん",
+    "kanji": "銀⾏員",
+    "english": "bank employee"
+  },
+  {
+    "kana": "ひしょ",
+    "kanji": "秘書",
+    "english": "secretary"
+  },
+  {
+    "kana": "うんてんしゅ",
+    "kanji": "運転⼿",
+    "english": "driver"
+  },
+  {
+    "kana": "うんてんしゃ",
+    "kanji": "運転者",
+    "english": "driver"
+  },
+  {
+    "kana": "かしゅ",
+    "kanji": "歌⼿",
+    "english": "singer"
+  },
+  {
+    "kana": "じょゆう",
+    "kanji": null,
+    "english": "actress"
+  },
+  {
+    "kana": "はいゆう",
+    "kanji": null,
+    "english": "actor"
+  },
+  {
+    "kana": "ほうこくする",
+    "kanji": "報告する",
+    "english": "report, information, to report"
+  },
+  {
+    "kana": "はっぴょうする",
+    "kanji": "発表する",
+    "english": "announcement, to announce"
+  },
+  {
+    "kana": "いんさつ（する）",
+    "kanji": null,
+    "english": "printing, to print"
+  },
+  {
+    "kana": "れんらく（する）",
+    "kanji": "連絡する",
+    "english": "getting in touch, to contact"
+  },
+  {
+    "kana": "やる",
+    "kanji": null,
+    "english": "to do"
+  },
+  {
+    "kana": "うごく",
+    "kanji": "動く",
+    "english": "to move"
+  },
+  {
+    "kana": "まちがえる",
+    "kanji": "間違える",
+    "english": "be mistaken"
+  },
+  {
+    "kana": "はこぶ",
+    "kanji": "運ぶ",
+    "english": "to carry"
+  },
+  {
+    "kana": "てつだう",
+    "kanji": "⼿伝う",
+    "english": "to help"
+  },
+  {
+    "kana": "くばる",
+    "kanji": "配る",
+    "english": "to distribute"
+  },
+  {
+    "kana": "かぞくぜんいん",
+    "kanji": "家族全員",
+    "english": "all family members"
+  },
+  {
+    "kana": "そふ",
+    "kanji": "祖⽗",
+    "english": "grandfather"
+  },
+  {
+    "kana": "そぼ",
+    "kanji": "祖⺟",
+    "english": "grandmother"
+  },
+  {
+    "kana": "おじ",
+    "kanji": null,
+    "english": "uncle"
+  },
+  {
+    "kana": "おば",
+    "kanji": null,
+    "english": "auntie"
+  },
+  {
+    "kana": "あかちゃん",
+    "kanji": null,
+    "english": "baby/ infant"
+  },
+  {
+    "kana": "あかんぼう",
+    "kanji": null,
+    "english": "baby/ infant"
+  },
+  {
+    "kana": "おじょうさん",
+    "kanji": null,
+    "english": "another`s daughter, young lady"
+  },
+  {
+    "kana": "おこさん",
+    "kanji": "お⼦さん",
+    "english": "child"
+  },
+  {
+    "kana": "むすこ",
+    "kanji": "息⼦",
+    "english": "son"
+  },
+  {
+    "kana": "むすめ",
+    "kanji": "娘",
+    "english": "daughter"
+  },
+  {
+    "kana": "おや",
+    "kanji": "親",
+    "english": "parents"
+  },
+  {
+    "kana": "おくさま",
+    "kanji": "奥様",
+    "english": "wife"
+  },
+  {
+    "kana": "ふるさと",
+    "kanji": null,
+    "english": "hometown"
+  },
+  {
+    "kana": "こいびと",
+    "kanji": "恋⼈",
+    "english": "lover, sweetheart"
+  },
+  {
+    "kana": "うそ",
+    "kanji": null,
+    "english": "lie"
+  },
+  {
+    "kana": "こい",
+    "kanji": "恋",
+    "english": "love (romantic)"
+  },
+  {
+    "kana": "マナー",
+    "kanji": null,
+    "english": "manners"
+  },
+  {
+    "kana": "おおごえ",
+    "kanji": "⼤声",
+    "english": "loud voice"
+  },
+  {
+    "kana": "ホームステイ",
+    "kanji": null,
+    "english": "homestay"
+  },
+  {
+    "kana": "かんじ",
+    "kanji": "感じ",
+    "english": "feelings, sense"
+  },
+  {
+    "kana": "かんじる",
+    "kanji": "感じる",
+    "english": "to feel, sense"
+  },
+  {
+    "kana": "におう",
+    "kanji": "匂う",
+    "english": "to smell"
+  },
+  {
+    "kana": "おもいだす",
+    "kanji": "思い出す",
+    "english": "to remember"
+  },
+  {
+    "kana": "わかれる",
+    "kanji": "別れる",
+    "english": "be separated"
+  },
+  {
+    "kana": "やくそくする",
+    "kanji": "約束する",
+    "english": "promise, to promise"
+  },
+  {
+    "kana": "かんどうする",
+    "kanji": "感動する",
+    "english": "admiration, be deeply moved"
+  },
+  {
+    "kana": "けんかする",
+    "kanji": null,
+    "english": "fight, to fight"
+  },
+  {
+    "kana": "したくする",
+    "kanji": "⽀度する",
+    "english": "preparations, to prepare"
+  },
+  {
+    "kana": "そだてる",
+    "kanji": "育てる",
+    "english": "to bring up, rear"
+  },
+  {
+    "kana": "そだつ",
+    "kanji": "育つ",
+    "english": "be brought up"
+  },
+  {
+    "kana": "かう",
+    "kanji": "飼う",
+    "english": "to take care of pets"
+  },
+  {
+    "kana": "しんじる",
+    "kanji": "信じる",
+    "english": "to believe"
+  },
+  {
+    "kana": "ねむる",
+    "kanji": "眠る",
+    "english": "to feel sleepy"
+  },
+  {
+    "kana": "おこす",
+    "kanji": "起こす",
+    "english": "to wake up, bring about"
+  },
+  {
+    "kana": "ねぼう",
+    "kanji": null,
+    "english": "oversleeping"
+  },
+  {
+    "kana": "あさねぼうする",
+    "kanji": null,
+    "english": "oversleeping, to oversleep"
+  },
+  {
+    "kana": "おかしい",
+    "kanji": null,
+    "english": "funny, amusing"
+  },
+  {
+    "kana": "おとなしい",
+    "kanji": null,
+    "english": "mature"
+  },
+  {
+    "kana": "しんせつな",
+    "kanji": "親切な",
+    "english": "kind"
+  },
+  {
+    "kana": "さいしょ",
+    "kanji": "最初",
+    "english": "beginning"
+  },
+  {
+    "kana": "さいしゅう",
+    "kanji": "最終",
+    "english": "last, end"
+  },
+  {
+    "kana": "ちゃんと",
+    "kanji": null,
+    "english": "diligently, seriously"
+  },
+  {
+    "kana": "しっかり",
+    "kanji": null,
+    "english": "firmly, steadily"
+  },
+  {
+    "kana": "なるべく",
+    "kanji": null,
+    "english": "as much as possible"
+  },
+  {
+    "kana": "ぼく",
+    "kanji": "僕",
+    "english": "I"
+  },
+  {
+    "kana": "きみ",
+    "kanji": "君",
+    "english": "you"
+  },
+  {
+    "kana": "じぶん",
+    "kanji": "⾃分",
+    "english": "oneself"
+  },
+  {
+    "kana": "〜たち",
+    "kanji": null,
+    "english": "plural suffix"
+  },
+  {
+    "kana": "ひとたち",
+    "kanji": null,
+    "english": "people"
+  },
+  {
+    "kana": "わたしたち",
+    "kanji": null,
+    "english": "we"
+  },
+  {
+    "kana": "あいて",
+    "kanji": "相⼿",
+    "english": "counterpart, the other person, the other party"
+  },
+  {
+    "kana": "きゃく",
+    "kanji": "客",
+    "english": "customer"
+  },
+  {
+    "kana": "たんとうしゃ",
+    "kanji": "担当者",
+    "english": "person in charge"
+  },
+  {
+    "kana": "じょせい",
+    "kanji": "⼥性",
+    "english": "woman, female"
+  },
+  {
+    "kana": "だんせい",
+    "kanji": "男性",
+    "english": "man, male"
+  },
+  {
+    "kana": "こうはい",
+    "kanji": "後輩",
+    "english": "junior (at work, school, etc)"
+  },
+  {
+    "kana": "せんぱい",
+    "kanji": "先輩",
+    "english": "senior (at work, school, etc)"
+  },
+  {
+    "kana": "メンバー",
+    "kanji": null,
+    "english": "member"
+  },
+  {
+    "kana": "まいご",
+    "kanji": "迷⼦",
+    "english": "lost child"
+  },
+  {
+    "kana": "じんこう",
+    "kanji": "⼈⼝",
+    "english": "population"
+  },
+  {
+    "kana": "にんずう",
+    "kanji": "⼈数",
+    "english": "number of people"
+  },
+  {
+    "kana": "おかげ（で）",
+    "kanji": null,
+    "english": "thanks to (+)"
+  },
+  {
+    "kana": "せい（で）",
+    "kanji": null,
+    "english": "due to (-)"
+  },
+  {
+    "kana": "おくれる",
+    "kanji": "遅れる",
+    "english": "to be late"
+  },
+  {
+    "kana": "まにあう",
+    "kanji": "間に合う",
+    "english": "to be on time"
+  },
+  {
+    "kana": "（じかんが）たつ",
+    "kanji": "時間がたつ",
+    "english": "time passes"
+  },
+  {
+    "kana": "まだ〜している",
+    "kanji": null,
+    "english": "still doing~"
+  },
+  {
+    "kana": "ひるま",
+    "kanji": "昼間",
+    "english": "daytime"
+  },
+  {
+    "kana": "よなか",
+    "kanji": "夜中",
+    "english": "middle of the night"
+  },
+  {
+    "kana": "せんじつ",
+    "kanji": "先⽇",
+    "english": "the other day"
+  },
+  {
+    "kana": "すうじつまえ",
+    "kanji": "数⽇前",
+    "english": "a few days ago"
+  },
+  {
+    "kana": "あす",
+    "kanji": "明⽇",
+    "english": "tomorrow"
+  },
+  {
+    "kana": "ひび",
+    "kanji": "⽇々",
+    "english": "daily, day after day"
+  },
+  {
+    "kana": "じだい",
+    "kanji": "時代",
+    "english": "era, period"
+  },
+  {
+    "kana": "しょうらい",
+    "kanji": "将来",
+    "english": "future"
+  },
+  {
+    "kana": "かこ",
+    "kanji": "過去",
+    "english": "past"
+  },
+  {
+    "kana": "むかし",
+    "kanji": "昔",
+    "english": "long time ago"
+  },
+  {
+    "kana": "いぜん",
+    "kanji": "以前",
+    "english": "before, previous"
+  },
+  {
+    "kana": "もうすぐ",
+    "kanji": null,
+    "english": "very soon"
+  },
+  {
+    "kana": "しばらく",
+    "kanji": null,
+    "english": "in a short while"
+  },
+  {
+    "kana": "はじめて",
+    "kanji": "初めて",
+    "english": "for the first time"
+  },
+  {
+    "kana": "さっき",
+    "kanji": null,
+    "english": "some time ago"
+  },
+  {
+    "kana": "このごろ",
+    "kanji": null,
+    "english": "nowadays"
+  },
+  {
+    "kana": "はやめに",
+    "kanji": "早めに",
+    "english": "ahead of time"
+  },
+  {
+    "kana": "こんど",
+    "kanji": "今度",
+    "english": "next time"
+  },
+  {
+    "kana": "きゅうに",
+    "kanji": "急に",
+    "english": "urgently"
+  },
+  {
+    "kana": "とつぜん",
+    "kanji": "突然",
+    "english": "suddenly"
+  },
+  {
+    "kana": "いつか",
+    "kanji": null,
+    "english": "someday"
+  },
+  {
+    "kana": "たまに",
+    "kanji": null,
+    "english": "once in a while, occasionally"
+  },
+  {
+    "kana": "ほとんど",
+    "kanji": null,
+    "english": "almost, mostly"
+  },
+  {
+    "kana": "きょうみ",
+    "kanji": "興味",
+    "english": "interests"
+  },
+  {
+    "kana": "しゅみ",
+    "kanji": "趣味",
+    "english": "hobby"
+  },
+  {
+    "kana": "たのしみ",
+    "kanji": "楽しみ",
+    "english": "enjoyment, pleasure"
+  },
+  {
+    "kana": "どくしょ",
+    "kanji": "読書",
+    "english": "reading"
+  },
+  {
+    "kana": "かいがいりょこう",
+    "kanji": "海外旅⾏",
+    "english": "foreign travel"
+  },
+  {
+    "kana": "にっき",
+    "kanji": "⽇記",
+    "english": "diary"
+  },
+  {
+    "kana": "けんがく",
+    "kanji": "⾒学",
+    "english": "field trip, study tour"
+  },
+  {
+    "kana": "スーツケース",
+    "kanji": null,
+    "english": "suitcase"
+  },
+  {
+    "kana": "こくさい",
+    "kanji": "国際",
+    "english": "international"
+  },
+  {
+    "kana": "しゅっぱつする",
+    "kanji": "出発する",
+    "english": "departure, to depart"
+  },
+  {
+    "kana": "とうちゃくする",
+    "kanji": "到着する",
+    "english": "arrival, to arrive"
+  },
+  {
+    "kana": "けんぶつする",
+    "kanji": "⾒物する",
+    "english": "sightseeing"
+  },
+  {
+    "kana": "げしゅくする",
+    "kanji": "下宿する",
+    "english": "boarding, to stay in a lodge"
+  },
+  {
+    "kana": "つり",
+    "kanji": "釣り",
+    "english": "fishing"
+  },
+  {
+    "kana": "つる",
+    "kanji": "釣る",
+    "english": "to fish"
+  },
+  {
+    "kana": "つれる",
+    "kanji": "連れる",
+    "english": "to lead, take"
+  },
+  {
+    "kana": "キャンセル（する）",
+    "kanji": null,
+    "english": "cancellation, to cancel"
+  },
+  {
+    "kana": "むかえにいく",
+    "kanji": "迎えに⾏く",
+    "english": "to go and meet someone"
+  },
+  {
+    "kana": "むかえる",
+    "kanji": "迎える",
+    "english": "to go out to meet"
+  },
+  {
+    "kana": "あんないする",
+    "kanji": "案内する",
+    "english": "information, to guide"
+  },
+  {
+    "kana": "まよう",
+    "kanji": "迷う",
+    "english": "to be puzzled"
+  },
+  {
+    "kana": "せんしゅ",
+    "kanji": "選⼿",
+    "english": "player"
+  },
+  {
+    "kana": "うんどうじょう",
+    "kanji": "運動場",
+    "english": "sports ground"
+  },
+  {
+    "kana": "たいいくかん",
+    "kanji": "体育館",
+    "english": "gymnasium"
+  },
+  {
+    "kana": "ジム",
+    "kanji": null,
+    "english": "gym"
+  },
+  {
+    "kana": "スキーじょう",
+    "kanji": "スキー場",
+    "english": "ski resort/area"
+  },
+  {
+    "kana": "じゅうどう",
+    "kanji": "柔道",
+    "english": "Judo"
+  },
+  {
+    "kana": "たっきゅう",
+    "kanji": null,
+    "english": "pingpong"
+  },
+  {
+    "kana": "ミス",
+    "kanji": null,
+    "english": "miss, error"
+  },
+  {
+    "kana": "かつ",
+    "kanji": "勝つ",
+    "english": "to win"
+  },
+  {
+    "kana": "まける",
+    "kanji": "負ける",
+    "english": "to lose, be defeated"
+  },
+  {
+    "kana": "せいこう（する）",
+    "kanji": "成功する",
+    "english": "success"
+  },
+  {
+    "kana": "しっぱい（する）",
+    "kanji": "失敗する",
+    "english": "failure, to fail"
+  },
+  {
+    "kana": "おうえんする",
+    "kanji": "応援する",
+    "english": "support, to support/cheer"
+  },
+  {
+    "kana": "さけぶ",
+    "kanji": "叫ぶ",
+    "english": "to shout, cry"
+  },
+  {
+    "kana": "すいえい（する）",
+    "kanji": "⽔泳する",
+    "english": "swimming, to swim"
+  },
+  {
+    "kana": "なげる",
+    "kanji": "投げる",
+    "english": "to throw"
+  },
+  {
+    "kana": "たたく",
+    "kanji": null,
+    "english": "to strike, to clap"
+  },
+  {
+    "kana": "すべる",
+    "kanji": null,
+    "english": "to slide (ski), slip (fall)"
+  },
+  {
+    "kana": "やった！",
+    "kanji": null,
+    "english": "to do, accomplish"
+  },
+  {
+    "kana": "にんきがある",
+    "kanji": "⼈気がある",
+    "english": "be famous, be popular"
+  },
+  {
+    "kana": "やっと",
+    "kanji": null,
+    "english": "at last, at length"
+  },
+  {
+    "kana": "きっと",
+    "kanji": null,
+    "english": "surely, certainly"
+  },
+  {
+    "kana": "ぜったいに",
+    "kanji": "絶対に",
+    "english": "absolutely"
+  },
+  {
+    "kana": "かならず",
+    "kanji": "必ず",
+    "english": "without fail, necessarily"
+  }
+]

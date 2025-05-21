@@ -1,0 +1,232 @@
+[
+  {
+    "kana": "ぼく",
+    "kanji": "僕",
+    "english": "I"
+  },
+  {
+    "kana": "きみ",
+    "kanji": "君",
+    "english": "you"
+  },
+  {
+    "kana": "じぶん",
+    "kanji": "⾃分",
+    "english": "oneself"
+  },
+  {
+    "kana": "〜たち",
+    "kanji": null,
+    "english": "plural suffix"
+  },
+  {
+    "kana": "ひとたち",
+    "kanji": null,
+    "english": "people"
+  },
+  {
+    "kana": "わたしたち",
+    "kanji": null,
+    "english": "we"
+  },
+  {
+    "kana": "あいて",
+    "kanji": "相⼿",
+    "english": "counterpart, the other person, the other party"
+  },
+  {
+    "kana": "きゃく",
+    "kanji": "客",
+    "english": "customer"
+  },
+  {
+    "kana": "たんとうしゃ",
+    "kanji": "担当者",
+    "english": "person in charge"
+  },
+  {
+    "kana": "じょせい",
+    "kanji": "⼥性",
+    "english": "woman, female"
+  },
+  {
+    "kana": "だんせい",
+    "kanji": "男性",
+    "english": "man, male"
+  },
+  {
+    "kana": "こうはい",
+    "kanji": "後輩",
+    "english": "junior (at work, school, etc)"
+  },
+  {
+    "kana": "せんぱい",
+    "kanji": "先輩",
+    "english": "senior (at work, school, etc)"
+  },
+  {
+    "kana": "メンバー",
+    "kanji": null,
+    "english": "member"
+  },
+  {
+    "kana": "まいご",
+    "kanji": "迷⼦",
+    "english": "lost child"
+  },
+  {
+    "kana": "じんこう",
+    "kanji": "⼈⼝",
+    "english": "population"
+  },
+  {
+    "kana": "にんずう",
+    "kanji": "⼈数",
+    "english": "number of people"
+  },
+  {
+    "kana": "おかげ（で）",
+    "kanji": null,
+    "english": "thanks to (+)"
+  },
+  {
+    "kana": "せい（で）",
+    "kanji": null,
+    "english": "due to (-)"
+  },
+  {
+    "kana": "おくれる",
+    "kanji": "遅れる",
+    "english": "to be late"
+  },
+  {
+    "kana": "まにあう",
+    "kanji": "間に合う",
+    "english": "to be on time"
+  },
+  {
+    "kana": "（じかんが）たつ",
+    "kanji": "時間がたつ",
+    "english": "time passes"
+  },
+  {
+    "kana": "まだ〜している",
+    "kanji": null,
+    "english": "still doing~"
+  },
+  {
+    "kana": "ひるま",
+    "kanji": "昼間",
+    "english": "daytime"
+  },
+  {
+    "kana": "よなか",
+    "kanji": "夜中",
+    "english": "middle of the night"
+  },
+  {
+    "kana": "せんじつ",
+    "kanji": "先⽇",
+    "english": "the other day"
+  },
+  {
+    "kana": "すうじつまえ",
+    "kanji": "数⽇前",
+    "english": "a few days ago"
+  },
+  {
+    "kana": "あす",
+    "kanji": "明⽇",
+    "english": "tomorrow"
+  },
+  {
+    "kana": "ひび",
+    "kanji": "⽇々",
+    "english": "daily, day after day"
+  },
+  {
+    "kana": "じだい",
+    "kanji": "時代",
+    "english": "era, period"
+  },
+  {
+    "kana": "しょうらい",
+    "kanji": "将来",
+    "english": "future"
+  },
+  {
+    "kana": "かこ",
+    "kanji": "過去",
+    "english": "past"
+  },
+  {
+    "kana": "むかし",
+    "kanji": "昔",
+    "english": "long time ago"
+  },
+  {
+    "kana": "いぜん",
+    "kanji": "以前",
+    "english": "before, previous"
+  },
+  {
+    "kana": "もうすぐ",
+    "kanji": null,
+    "english": "very soon"
+  },
+  {
+    "kana": "しばらく",
+    "kanji": null,
+    "english": "in a short while"
+  },
+  {
+    "kana": "はじめて",
+    "kanji": "初めて",
+    "english": "for the first time"
+  },
+  {
+    "kana": "さっき",
+    "kanji": null,
+    "english": "some time ago"
+  },
+  {
+    "kana": "このごろ",
+    "kanji": null,
+    "english": "nowadays"
+  },
+  {
+    "kana": "はやめに",
+    "kanji": "早めに",
+    "english": "ahead of time"
+  },
+  {
+    "kana": "こんど",
+    "kanji": "今度",
+    "english": "next time"
+  },
+  {
+    "kana": "きゅうに",
+    "kanji": "急に",
+    "english": "urgently"
+  },
+  {
+    "kana": "とつぜん",
+    "kanji": "突然",
+    "english": "suddenly"
+  },
+  {
+    "kana": "いつか",
+    "kanji": null,
+    "english": "someday"
+  },
+  {
+    "kana": "たまに",
+    "kanji": null,
+    "english": "once in a while, occasionally"
+  },
+  {
+    "kana": "ほとんど",
+    "kanji": null,
+    "english": "almost, mostly"
+  }
+]

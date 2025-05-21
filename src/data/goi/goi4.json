@@ -1,0 +1,227 @@
+[
+  {
+    "kana": "ちょうし",
+    "kanji": "調⼦",
+    "english": "condition, state of health, state"
+  },
+  {
+    "kana": "ぐあい",
+    "kanji": "具合",
+    "english": "condition, state of health, state"
+  },
+  {
+    "kana": "せいかく",
+    "kanji": "性格",
+    "english": "character, personality"
+  },
+  {
+    "kana": "きぶん",
+    "kanji": "気分",
+    "english": "mood, feeling"
+  },
+  {
+    "kana": "きもち",
+    "kanji": "気持ち",
+    "english": "feelings, sensation"
+  },
+  {
+    "kana": "ちから",
+    "kanji": "⼒",
+    "english": "power, strength"
+  },
+  {
+    "kana": "こころ",
+    "kanji": "⼼",
+    "english": "heart, mind, spirit"
+  },
+  {
+    "kana": "しんぞう",
+    "kanji": null,
+    "english": "heart (organ)"
+  },
+  {
+    "kana": "かおいろ",
+    "kanji": "顔⾊",
+    "english": "color of face, complexion"
+  },
+  {
+    "kana": "まゆげ",
+    "kanji": null,
+    "english": "eye brow"
+  },
+  {
+    "kana": "ひげ",
+    "kanji": null,
+    "english": "beard"
+  },
+  {
+    "kana": "ほっぺた",
+    "kanji": null,
+    "english": "cheeks"
+  },
+  {
+    "kana": "のど",
+    "kanji": null,
+    "english": "throat"
+  },
+  {
+    "kana": "せなか",
+    "kanji": "背中",
+    "english": "back (body)"
+  },
+  {
+    "kana": "こし",
+    "kanji": null,
+    "english": "lower back"
+  },
+  {
+    "kana": "うで",
+    "kanji": null,
+    "english": "arm"
+  },
+  {
+    "kana": "むね",
+    "kanji": null,
+    "english": "chest, breast, heart"
+  },
+  {
+    "kana": "け",
+    "kanji": "⽑",
+    "english": "hair, fur"
+  },
+  {
+    "kana": "ち",
+    "kanji": "⾎",
+    "english": "blood"
+  },
+  {
+    "kana": "ひやけ",
+    "kanji": "⽇焼け",
+    "english": "sunburn"
+  },
+  {
+    "kana": "たいおん",
+    "kanji": "体温",
+    "english": "temperature (body)"
+  },
+  {
+    "kana": "たいおんけい",
+    "kanji": "体温計",
+    "english": "thermometer"
+  },
+  {
+    "kana": "かぜぐすり",
+    "kanji": "⾵邪薬",
+    "english": "cold medicine"
+  },
+  {
+    "kana": "ちゅうしゃ",
+    "kanji": null,
+    "english": "injection"
+  },
+  {
+    "kana": "うんどうぶそく",
+    "kanji": "運動不⾜",
+    "english": "lack of exercise"
+  },
+  {
+    "kana": "おみまい",
+    "kanji": "お⾒舞い",
+    "english": "visiting a sick person"
+  },
+  {
+    "kana": "にゅういんする",
+    "kanji": "⼊院する",
+    "english": "be admitted in hospital"
+  },
+  {
+    "kana": "たいいんする",
+    "kanji": "退院する",
+    "english": "be discharged from hospital"
+  },
+  {
+    "kana": "いたむ",
+    "kanji": "痛む",
+    "english": "to feel/have pain"
+  },
+  {
+    "kana": "けが（する）",
+    "kanji": null,
+    "english": "to get an injury"
+  },
+  {
+    "kana": "たおれる",
+    "kanji": "倒れる",
+    "english": "to fall down, collapse"
+  },
+  {
+    "kana": "かぜをひく",
+    "kanji": "⾵邪を引く",
+    "english": "to catch a cold"
+  },
+  {
+    "kana": "きをつける",
+    "kanji": "気を付ける",
+    "english": "to take care, be cautious"
+  },
+  {
+    "kana": "きがつく",
+    "kanji": "気が付く",
+    "english": "to notice, take care"
+  },
+  {
+    "kana": "ふとる",
+    "kanji": "太る",
+    "english": "to gain weight"
+  },
+  {
+    "kana": "やせる",
+    "kanji": null,
+    "english": "to lose weight"
+  },
+  {
+    "kana": "かわく",
+    "kanji": null,
+    "english": "to get dry"
+  },
+  {
+    "kana": "のどがかわく",
+    "kanji": null,
+    "english": "to be thirsty (throat is dry)"
+  },
+  {
+    "kana": "おなかがすく",
+    "kanji": null,
+    "english": "to be hungry (stomach is empty)"
+  },
+  {
+    "kana": "めがさめる",
+    "kanji": "⽬が覚める",
+    "english": "to open oneʼs eyes/wake up"
+  },
+  {
+    "kana": "めをとじる",
+    "kanji": "⽬を閉じる",
+    "english": "to close oneʼs eyes"
+  },
+  {
+    "kana": "うがいをする",
+    "kanji": null,
+    "english": "to gargle"
+  },
+  {
+    "kana": "じょうぶな",
+    "kanji": "丈夫な",
+    "english": "strong, solid, healthy"
+  },
+  {
+    "kana": "けんこうな",
+    "kanji": "健康な",
+    "english": "healthy"
+  },
+  {
+    "kana": "まっさおな",
+    "kanji": "真っ⻘な",
+    "english": "deadly pale, deep blue"
+  }
+]
